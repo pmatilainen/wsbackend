@@ -1,0 +1,12 @@
+{
+  "name": "webshop",
+  "author": "Petri Matilainen",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.8",
+    "mongoose-deep-populate": "^2.0.3"
+  }
+}
